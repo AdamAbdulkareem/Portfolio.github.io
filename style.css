@@ -74,7 +74,7 @@ h1, h2{
   width:45vw;
   height:25vh;
   border:0.5vw solid #E5B3FE;
-  margin-left:30vw;
+  margin-left:35vw;
   border-radius:60vw;
   background-size:cover;
   background-color:#F5FFFA;
@@ -154,6 +154,6 @@ hr:nth-child(3){
 }
 .foot{
   margin-top:5vh;
-  border-left:1vw solid #0096C7;
+  border-left:3vw solid #0096C7;
   padding-left:3vw;
 }
