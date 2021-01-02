@@ -69,7 +69,9 @@ header p{
 h1, h2{
   color:#4EA8DE;
 }
-
+  span{
+     font-family: 'Righteous', cursive;
+} 
 .profile-image img{
   width:45vw;
   height:25vh;
