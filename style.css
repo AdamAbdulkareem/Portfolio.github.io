@@ -89,7 +89,7 @@ h1, h2{
     filter:blur(2px);
   }
   100%{
-    transform:rotate(10deg);
+    transform:rotate(0deg);
   }
 }
 
@@ -134,7 +134,7 @@ h1, h2{
 #profile  img{
   width:30vw;
   height:20vh;
-  margin-left:20vw;
+  margin-left:22vw;
   border-radius:5vw;
 }
 /*
