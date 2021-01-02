@@ -4,7 +4,7 @@
 
 body {
   height:100vh;
-  width:140vw;
+  width:138vw;
   font-size:8vw;
   line-height:8vh;
   background-color:#C8E7FF;
@@ -103,7 +103,7 @@ h1, h2{
 #project img{
   width:92vw;
   height:40vh;
-  margin-left:30vw;
+  margin-left:20vw;
 }
 #project .w-image{
   background-color:#CAF0F8;
